@@ -34,18 +34,6 @@ A personal finance manager that helps you track income, expenses, and visualize 
 - **Icons**: Font Awesome
 - **Deployment**: Netlify
 
----
-
-## 📷 Screenshots
-
-### 🏠 Home Page
-![Home Page](assets/Home.png)
-
-### 📊 Dashboard View
-![Dashboard](assets/dashBoard.png)
-
----
-
 ## 🧪 Getting Started
 
 ### ⚙️ Prerequisites
@@ -134,4 +122,14 @@ FinanceTracker/
 Created by **Aditya Kachade**
 📧 [adityakachade@gmail.com](mailto:adityakachade@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/adityakachade/)
+
+
+
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home Page](assets/Home.png)
+
+### 📊 Dashboard View
+![Dashboard](assets/dashBoard.png)
 
