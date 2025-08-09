@@ -44,7 +44,7 @@ A personal finance manager that helps you track income, expenses, and visualize 
 ### 📊 Dashboard View
 ![Dashboard](assets/dashBoard.png)
 
-> Replace `homepage.png` and `dashboard.png` with the **exact filenames** of your screenshots in the `assets/` folder.
+
 
 ---
 
