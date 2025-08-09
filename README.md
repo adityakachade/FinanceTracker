@@ -57,15 +57,14 @@
 
    ```javascript
    const firebaseConfig = {
-     apiKey: "AIzaSyBd_qboEWxfksqp4ihUS6ulOkogVuVA-SY",
-     authDomain: "real-time-updates-5d308.firebaseapp.com",
-     projectId: "real-time-updates-5d308",
-     storageBucket: "real-time-updates-5d308.appspot.com",
-     messagingSenderId: "233653353230",
-     appId: "1:233653353230:web:d571e79f407e12b0f8b55f",
-     measurementId: "G-NSS2X91YMT"
-   };
-   firebase.initializeApp(firebaseConfig);
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  messagingSenderId: "YOUR_SENDER_ID",
+  appId: "YOUR_APP_ID"
+  };
+  firebase.initializeApp(firebaseConfig);
    ```
 
 4. Run the Application:
