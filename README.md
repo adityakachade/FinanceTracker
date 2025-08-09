@@ -1,10 +1,3 @@
-Sure! Here's a **cleaned-up and professional version** of your `README.md` for **FinanceTracker**, styled consistently with the AgriAi one I gave earlier.
-
----
-
-### ✅ `README.md` for **FinanceTracker**
-
-````markdown
 # 💰 FinanceTracker
 
 A personal finance manager that helps you track income, expenses, and visualize spending patterns — all in real-time.
