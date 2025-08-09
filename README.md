@@ -79,21 +79,26 @@
 ## File Structure
 
 ```
-money-manager/
+FinanceTracker/
 ├── index.html              # Home page
-├── auth.html               # Authentication page
-├── dashboard.html          # Main dashboard
-├── about.html              # About us page
+├── auth.html               # User signup/login page
+├── dashboard.html          # Financial dashboard
+├── about.html              # About Us page
 ├── contact.html            # Contact page
+│
 ├── css/
-│   └── styles.css          # Custom styles
+│   └── styles.css          # Custom CSS styles
+│
 ├── js/
-│   ├── auth.js             # Authentication logic
-│   ├── dashboard.js        # Dashboard functionality
-│   ├── contact.js          # Contact form handling
-│   └── firebase-config.js  # Firebase setup
-├── assets/                 # Images and icons
-└── README.md               # This file
+│   ├── auth.js             # Authentication logic (login/signup)
+│   ├── dashboard.js        # Dashboard data handling and chart rendering
+│   ├── contact.js          # Contact form validation and submission
+│   └── firebase-config.js  # Firebase configuration and initialization
+│
+├── assets/                 # Images, icons, and other static assets
+│
+└── README.md               # Project overview and documentation
+
 ```
 
 ---
