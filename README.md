@@ -2,7 +2,7 @@
 
 ![Money Manager Screenshot](https://via.placeholder.com/800x400?text=Money+Manager+Screenshot)
 
-**Money Manager** is a comprehensive personal finance application that helps you track your income and expenses, visualize your spending patterns, and achieve your financial goals. Built with modern web technologies and Firebase backend, it provides a seamless experience across all devices.
+**FinanceTracker** is a comprehensive personal finance application that helps you track your income and expenses, visualize your spending patterns, and achieve your financial goals. Built with modern web technologies and Firebase backend, it provides a seamless experience across all devices.
 
 🔗 **Live Demo**: [https://trackthefinance.netlify.app/](https://trackthefinance.netlify.app/)
 
