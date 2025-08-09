@@ -40,7 +40,6 @@ A personal finance manager that helps you track income, expenses, and visualize 
 
 ### 🏠 Home Page
 ![Home Page](assets/Home.png)
-![Uploading image.png…]()
 
 ### 📊 Dashboard View
 ![Dashboard](assets/dashBoard.png)
