@@ -22,7 +22,6 @@
 ## Technologies Used
 
 * **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-* **UI Framework**: Tailwind CSS
 * **Backend**: Firebase (Authentication, Firestore Database)
 * **Data Visualization**: Chart.js
 * **Icons**: Font Awesome
