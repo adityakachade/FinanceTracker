@@ -38,12 +38,13 @@ A personal finance manager that helps you track income, expenses, and visualize 
 
 ## 📷 Screenshots
 
-*(Replace with real screenshots if available)*
+### 🏠 Home Page
+![Home Page](assets/homepage.png)
 
-```md
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+View)
-![Transactions](https://via.placeholder.com/800x400?text=Transaction+List)
-````
+### 📊 Dashboard View
+![Dashboard](assets/dashboard.png)
+
+> Replace `homepage.png` and `dashboard.png` with the **exact filenames** of your screenshots in the `assets/` folder.
 
 ---
 
@@ -60,7 +61,7 @@ A personal finance manager that helps you track income, expenses, and visualize 
 # Clone the repo
 git clone https://github.com/adityakachade/FinanceTracker
 cd FinanceTracker
-```
+````
 
 ### 🔧 Firebase Setup
 
@@ -110,7 +111,9 @@ FinanceTracker/
 │   ├── contact.js
 │   └── firebase-config.js
 │
-├── assets/                 # Images and icons
+├── assets/                 # Screenshots and icons
+│   ├── homepage.png
+│   └── dashboard.png
 └── README.md
 ```
 
@@ -133,6 +136,4 @@ FinanceTracker/
 Created by **Aditya Kachade**
 📧 [adityakachade@gmail.com](mailto:adityakachade@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/adityakachade/)
-
----
 
